@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dcderbyshire@gmail.com
+	name = Daniel Derbyshire
